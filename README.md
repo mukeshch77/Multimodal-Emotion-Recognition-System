@@ -8,8 +8,8 @@
 A robust deep learning framework that performs **multimodal emotion recognition** by fusing visual cues (facial expressions) and textual context. This system integrates **BERT** for text analysis and **ResNet** for image processing into a unified fusion architecture to predict human emotions with high accuracy.
 
 ## 🚀 Live Demo
-Experience the real-time inference app here:
-**[👉 Launch Live App](https://multimodal-emotion-recognition-system-yxfnrwzmiv6wrvj6d5j7ig.streamlit.app/)**
+Experience the real-time inference app here:👉
+**[Launch Live App](https://multimodal-emotion-recognition-system-yxfnrwzmiv6wrvj6d5j7ig.streamlit.app/)**
 
 ---
 
