@@ -1,1 +1,10 @@
-
+streamlit
+torch
+torchvision
+transformers
+scikit-learn
+opencv-python
+pillow
+numpy
+pandas
+pyyaml
