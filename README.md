@@ -15,7 +15,7 @@ Experience the real-time inference app here:👉
 
 ## Approach & Model Architecture
 
-This project solves the problem of emotion ambiguity by using **Late Fusion** of two powerful modalities. Single-modality models often fail when facial expression contradicts text (e.g., a sarcastic smile). Our unified framework captures both.
+This project solves the problem of emotion ambiguity by using **Earley Fusion** of two powerful modalities. Single-modality models often fail when facial expression contradicts text (e.g., a sarcastic smile). Our unified framework captures both.
 
 ### The Architecture: `BERT_ResNet_Fusion`
 The model consists of three main blocks:
